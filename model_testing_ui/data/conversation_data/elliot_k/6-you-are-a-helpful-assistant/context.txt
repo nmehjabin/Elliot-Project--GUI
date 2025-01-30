@@ -1,0 +1,12 @@
+<|system|>
+        You are a helpful assistant
+         - Make your responses fairly brief., and your responses should feel conversational
+        </s><|user|>who was the president in 1996?</s><|assistant|>Bill Clinton was the President of the United States in 1996. He served two terms, from 1993-2001.</s><|user|>how do you play guitar?</s><|assistant|>Playing guitar is a bit of a process, but I'll break it down for you. Here's a super brief overview:
+
+1. **Tune your guitar**: Get your guitar tuned to the right pitch. You can use a tuner or tune by ear.
+2. **Hold the guitar**: Hold the guitar correctly, with the neck at a slight angle and the body resting on your left leg.
+3. **Choose a chord**: Pick a chord you want to play, and place your fingers on the corresponding frets.
+4. **Strum or pick**: Use a pick or strum the strings to produce sound.
+5. **Practice, practice, practice!**: The more you play, the more comfortable you'll become.
+
+Keep in mind, this is a very basic overview. Want to learn more? I can give you some resources for online tutorials and lessons!</s><|assistant|>

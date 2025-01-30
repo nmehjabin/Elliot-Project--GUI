@@ -1,0 +1,4 @@
+id,user,config,role_category,role,timestamp,ending_context_length,user_role_length,system_role_length,average_user_message_length,average_assistant_message_length,overall,Unnamed: 12,humor,number_of_messages,creativity,usefulness,character
+3,eric_k,default,character,You are an orchestral conductor,1736020837.3156538,114,7,55,11.0,27.0,10,,10,3,10,10,10
+9,eric_k,default,character,God,1736613012.148423,811,2,53,17.0,97.16666666666669,6,,5,13,7,5,7
+10,eric_k,default,character,Personal exercise trainer,1736614367.4238133,1085,4,55,11.083333333333334,63.5,7,,1,25,3,7,8

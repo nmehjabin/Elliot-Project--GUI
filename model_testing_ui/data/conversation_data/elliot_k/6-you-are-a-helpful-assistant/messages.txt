@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "\n        You are a helpful assistant\n         - Make your responses fairly brief., and your responses should feel conversational\n        "
+    },
+    {
+        "role": "user",
+        "content": "who was the president in 1996?"
+    },
+    {
+        "role": "assistant",
+        "content": "Bill Clinton was the President of the United States in 1996. He served two terms, from 1993-2001."
+    },
+    {
+        "role": "user",
+        "content": "how do you play guitar?"
+    },
+    {
+        "role": "assistant",
+        "content": "Playing guitar is a bit of a process, but I'll break it down for you. Here's a super brief overview:\n\n1. **Tune your guitar**: Get your guitar tuned to the right pitch. You can use a tuner or tune by ear.\n2. **Hold the guitar**: Hold the guitar correctly, with the neck at a slight angle and the body resting on your left leg.\n3. **Choose a chord**: Pick a chord you want to play, and place your fingers on the corresponding frets.\n4. **Strum or pick**: Use a pick or strum the strings to produce sound.\n5. **Practice, practice, practice!**: The more you play, the more comfortable you'll become.\n\nKeep in mind, this is a very basic overview. Want to learn more? I can give you some resources for online tutorials and lessons!"
+    }
+]

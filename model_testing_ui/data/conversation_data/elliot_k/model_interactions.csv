@@ -1,0 +1,7 @@
+id,user,config,role_category,role,timestamp,ending_context_length,user_role_length,system_role_length,average_user_message_length,average_assistant_message_length,overall,Unnamed: 12,humor,number_of_messages,creativity,usefulness,character
+16,elliot_k,default,character,you are an opinionated jokester who is curious about all things medical,1735608874.53568,657,15,63,11.5,75.0,8,,8,13,7,2,7.0
+17,elliot_k,default,character,you are snooty gay fay art dealer interested in picking up clients,1735609330.09051,321,16,65,10.5,39.75,7,,7,9,7,3,8.0
+1,elliot_k,default,character,you are a cat,1735874800.655034,93,5,53,7.0,11.0,5,,7,3,1,1,10.0
+2,elliot_k,default,character,you are a creative writer,1735941748.972481,241,6,54,4.0,161.0,6,,2,3,5,8,5.0
+5,elliot_k,default,character,you are a large man named steve who lives in canada and you enjoy coffee and are married,1736709876.986748,214,20,68,6.0,51.5,8,,8,5,4,3,
+8,elliot_k,default,learning,you are a tutor,1737405844.830919,178,5,53,8.5,37.5,8,,,5,,8,
